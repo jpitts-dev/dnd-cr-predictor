@@ -26,14 +26,20 @@ why some encounters feel harder than their CR suggests.
 - seaborn
 - scikit-learn
 
+## Data Source
+Dataset: D&D 5e Monster Stats
+Owner: Jairo Hernandez
+Source: https://www.kaggle.com/datasets/jairohernandez/d-and-d-5e-monster-stats?select=DnD5e_Monsters_Stats.csv
+
 ## Project Status
 In Progress
 
 ## Development Log
-| Date        | Milestone                                                  |
-|-------------|------------------------------------------------------------|
-| May 4, 2026 | Project created: environment setup, repository initialized |
-|             |                                                            |
+| Date        | Milestone                                                      |
+|-------------|----------------------------------------------------------------|
+| May 4, 2026 | Project created: environment setup, repository initialized     |
+| May 4, 2026 | Dataset identified -- D&D 5e Monster Stats sourced from Kaggle |
+|             |                                                                |
 
 ## Author
 Jory Pitts | BS Computational Data Science | Graduating Fall 2027
