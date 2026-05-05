@@ -35,12 +35,13 @@ Source: https://www.kaggle.com/datasets/jairohernandez/d-and-d-5e-monster-stats?
 In Progress
 
 ## Development Log
-| Date        | Milestone                                                                   |
-|-------------|-----------------------------------------------------------------------------|
-| May 4, 2026 | Project created: environment setup, repository initialized                  |
-| May 4, 2026 | Dataset identified -- D&D 5e Monster Stats sourced from Kaggle              |
-| May4, 2026  | Dataset downloaded -- DnD_5e_Monsters_Stats.csv added to project            |
-| May 4, 2026 | Exploratory data analysis begun -- CR distribution and feature correlations |
+| Date        | Milestone                                                                            |
+|-------------|--------------------------------------------------------------------------------------|
+| May 4, 2026 | Project created: environment setup, repository initialized                           |
+| May 4, 2026 | Dataset identified -- D&D 5e Monster Stats sourced from Kaggle                       |
+| May 4, 2026 | Dataset downloaded -- DnD_5e_Monsters_Stats.csv added to project                     |
+| May 4, 2026 | Exploratory data analysis begun -- CR distribution and feature correlations          |
+| May 4, 2026 | Scatter plots complete -- DEX finding confirmed visually, model trained successfully |
 
 ## Author
 Jory Pitts | BS Computational Data Science | Graduating Fall 2027
