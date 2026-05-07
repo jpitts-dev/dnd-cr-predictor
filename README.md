@@ -42,6 +42,7 @@ In Progress
 | May 4, 2026 | Dataset downloaded -- DnD_5e_Monsters_Stats.csv added to project                     |
 | May 4, 2026 | Exploratory data analysis begun -- CR distribution and feature correlations          |
 | May 4, 2026 | Scatter plots complete -- DEX finding confirmed visually, model trained successfully |
+| May 7, 2026 | Model Evaluated -- MAE 0.75, r2 0.97, feature importance analysis complete           |
 
 ## Author
 Jory Pitts | BS Computational Data Science | Graduating Fall 2027
