@@ -16,10 +16,10 @@ weaknesses in the official CR system, and ultimately build a
 tool where Dungeon Masters can input custom monster stats and receive a predicted CR.
 
 ## Key Findings
-The model achieves an R2 of 0.97 and a Mean Absolute Error of 0.75 CR levels, 
+The model achieves an $R^2$ of $0.97$ and a Mean Absolute Error ($MAE$) of $0.75$ CR levels, 
 confirming that raw stat blocks largely determine CR. Hit Points alone accounts for 
-88.4% of predictive power, revealing the CR system as fundamentally an HP scaling 
-system. Dexterity contributes only 0.5% to model predictions despite its direct 
+$88.4%$ of predictive power, revealing the CR system as fundamentally an HP scaling 
+system. Dexterity contributes only $0.5%$ to model predictions despite its direct 
 relevance to combat difficulty, suggesting the official system ignores this stat.
 
 ## Tools and Libraries
@@ -51,6 +51,7 @@ Core analysis complete. Streamlit application in development.
 | May 7, 2026  | Model Evaluated: MAE 0.75, R2 0.97, feature importance analysis complete                            |
 | May 8, 2026  | Notebook restructured into lab report format with: abstract, discussion, conclusion, and references |
 | May 18, 2026 | Notebook formatting and text edits: LaTeX notation, italics, and structural cleanup                 |
+| May 19, 2026 | Model exported to .pkl file, Streamlit app development begun, README.md updated                     |
 
 ## Author
 Jory Pitts | BS Computational Data Science | Graduating Fall 2027
