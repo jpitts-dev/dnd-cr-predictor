@@ -10,17 +10,19 @@ investigate whether a monster's raw stat block can predict its CR and to identif
 which stats actually drive the official rating system.
 
 ## Goals
-This project aims to train a machine learning model to predict monster CR from stat 
-block data, identify which stats most strongly influence CR, expose measurable 
-weaknesses in the official CR system, and ultimately build a 
-tool where Dungeon Masters can input custom monster stats and receive a predicted CR.
+This project aims to investigate whether raw stat blocks can reliably predict official 
+Challenge Ratings, identify which stats drive the rating system, and deliver a practical 
+homebrew validator that Dungeon Masters can use to evaluate custom monster designs 
+against a model trained on official fifth edition monsters.
 
 ## Key Findings
 The model achieves an $R^2$ of $0.97$ and a Mean Absolute Error ($MAE$) of $0.75$ CR levels, 
 confirming that raw stat blocks largely determine CR. Hit Points alone accounts for 
 $88.4%$ of predictive power, revealing the CR system as fundamentally an HP scaling 
 system. Dexterity contributes only $0.5%$ to model predictions despite its direct 
-relevance to combat difficulty, suggesting the official system ignores this stat.
+relevance to combat difficulty, suggesting the official system ignores this stat. Together these 
+findings inform a practical validator that flags when a homebrew monster's stats suggest a CR 
+meaningfully different from the designer's intent.
 
 ## Tools and Libraries
 | Library      | Version | Source             |
