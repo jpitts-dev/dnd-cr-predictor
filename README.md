@@ -55,6 +55,7 @@ Core analysis complete. Streamlit application in development.
 | May 18, 2026 | Notebook formatting and text edits: LaTeX notation, italics, and structural cleanup                 |
 | May 19, 2026 | Model exported to .pkl file, Streamlit app development begun, README.md updated                     |
 | June 9, 2026 | Added requirements.txt for reproducibility                                                          |
+| June 9, 2026 | Updated notebook and README framing to reflect homebrew validator use case                          |
 
 ## Author
 Jory Pitts | BS Computational Data Science | Graduating Fall 2027
