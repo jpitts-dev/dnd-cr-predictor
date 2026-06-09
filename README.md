@@ -9,6 +9,9 @@ formally examined through data analysis. This project applies machine learning t
 investigate whether a monster's raw stat block can predict its CR and to identify 
 which stats actually drive the official rating system.
 
+## Live App
+Try the homebrew validator here: [dnd-cr-predictor.streamlit.app](https://dnd-cr-predictor.streamlit.app)
+
 ## Goals
 This project aims to investigate whether raw stat blocks can reliably predict official 
 Challenge Ratings, identify which stats drive the rating system, and deliver a practical 
@@ -56,6 +59,7 @@ Core analysis complete. Streamlit application in development.
 | May 19, 2026 | Model exported to .pkl file, Streamlit app development begun, README.md updated                     |
 | June 9, 2026 | Added requirements.txt for reproducibility                                                          |
 | June 9, 2026 | Updated notebook and README framing to reflect homebrew validator use case                          |
+| June 9, 2026 | Streamlit app deployed publicly at dnd-cr-predictor.streamlit.app                                   |
 
 ## Author
 Jory Pitts | BS Computational Data Science | Graduating Fall 2027
