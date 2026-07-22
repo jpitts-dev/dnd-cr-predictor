@@ -61,6 +61,7 @@ Complete. Live app available above.
 | June 9, 2026  | Streamlit app deployed publicly at dnd-cr-predictor.streamlit.app                                   |
 | July 22, 2026 | README and Notebook revisions: edits for clarity in text and code                                   |
 | July 22, 2026 | Added unit tests: model loading, prediction range, and rounding validation                          |
+| July 22, 2026 | Added preset example monsters to Streamlit app for user reference                                   |
 
 ## Author
 Jory Pitts | BS Computational Data Science | Graduating Fall 2027
