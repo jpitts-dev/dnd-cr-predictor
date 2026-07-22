@@ -41,7 +41,7 @@ if example == "Goblin (CR 1/4)":
     default_wis = 8
     default_cha = 8
 
-elif example == "Ogre (CR 2/4)":
+elif example == "Ogre (CR 2)":
     default_hp = 59
     default_ac = 11
     default_str = 19
