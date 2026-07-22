@@ -60,6 +60,7 @@ Complete. Live app available above.
 | June 9, 2026  | Updated notebook and README framing to reflect homebrew validator use case                          |
 | June 9, 2026  | Streamlit app deployed publicly at dnd-cr-predictor.streamlit.app                                   |
 | July 22, 2026 | README and Notebook revisions: edits for clarity in text and code                                   |
+| July 22, 2026 | Added unit tests: model loading, prediction range, and rounding validation                          |
 
 ## Author
 Jory Pitts | BS Computational Data Science | Graduating Fall 2027
